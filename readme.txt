@@ -1,1 +1,1 @@
-leetcode solutions. If possible, I will try to write some notes.
+leetcode solutions. If possible, I will write some notes.
